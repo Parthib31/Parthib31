@@ -1,9 +1,10 @@
 # About Me
 
-### Hi there 👋 , Myself Parthib Chowdhury, a programmer who always eager to learn new things in the domain of science and technology.
--- I am currently pursuing B-Tech in the Department of Information Technogy from Indian Institute of Engineering Science and Technology, Shibpur(IIEST Shibpur).
+### Hi there 👋 , Myself Parthib Chowdhury.
+-- Currently pursuing B-Tech in Information Technogy from Indian Institute of Engineering Science and Technology, Shibpur(IIEST Shibpur).
 
---I am a Full Stack Web Developer and learning new technologies to update myself in this field.
+--My expertise - Full stack web development and Machine Learning.
+--My programming skills: C++, Python and JavaScript.
 
 ## How to Reach Me:
 Gmail: parthibchowdhury31@gmail.com
