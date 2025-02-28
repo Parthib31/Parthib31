@@ -1,9 +1,10 @@
 # About Me
 
 ### Hi there 👋 , Myself Parthib Chowdhury.
--- Currently pursuing B-Tech in Information Technogy from Indian Institute of Engineering Science and Technology, Shibpur(IIEST Shibpur).
+-- Currently pursuing B-Tech in Information Technology from Indian Institute of Engineering Science and Technology, Shibpur(IIEST Shibpur).
 
---My expertise - Full stack web development and Machine Learning.
+--My expertise: Full stack web development and Machine Learning.
+
 --My programming skills: C++, Python and JavaScript.
 
 ## How to Reach Me:
